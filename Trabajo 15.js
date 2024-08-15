@@ -1,0 +1,4 @@
+{
+    "producto" "Laptop"
+    "marca" "Dell"
+    

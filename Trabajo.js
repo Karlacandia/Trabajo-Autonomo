@@ -13,3 +13,7 @@ for (let i = 1; i <= 10; i++) {
 
 // Imprimir el resultado
 console.log(`Hay ${contadorMayoresQue5} números mayores que 5.`);
+const frutas = {
+    nombre:"manzana",
+    color: "rojo"
+}
