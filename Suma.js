@@ -7,4 +7,3 @@ function suma(a,b,c){
 }
  
 console.log(darBienvenidad("Ana"));
-console.log(suma(3,4,5));
